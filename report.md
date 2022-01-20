@@ -6,8 +6,7 @@
 
 На тестирование затрачено: 0,5ч
 
-В результате тестирования выявлен следующий дефект:
-https://github.com/mumitrols/java_lesson-1.1/issues/1
+В результате тестирования выявлен <code>[следующий дефект](https://github.com/mumitrols/java_lesson-1.1/issues/1)</code>
 
 ## Описание процесса тестирования
 
@@ -21,5 +20,5 @@ https://github.com/mumitrols/java_lesson-1.1/issues/1
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64-разрядная
-* Java 11 SE
+* Java 11.0.12 2021-07-20
 * IntelliJ IDEA Community Edition 2021.3.1
